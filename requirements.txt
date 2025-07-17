@@ -1,0 +1,10 @@
+telebot
+kvsqlite
+schedule
+requests
+user_agent
+aiosqlite
+telethon
+pyrogram
+opentele
+python-binance
